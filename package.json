@@ -1,15 +1,14 @@
 {
-  "name": "task",
+  "name": "nodejs-demo-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Node.js web app for CI/CD testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Abdul Rahman",
+  "license": "MIT",
   "dependencies": {
-    "moment": "^2.30.1"
+    "express": "^4.18.2"
   }
 }
