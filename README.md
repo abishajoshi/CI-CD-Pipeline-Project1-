@@ -14,7 +14,7 @@
 
 **🔄 Workflow Overview**
 
-CI/CD pipeline is defined in .github/workflows/main.yml.
+CI/CD pipeline is defined at .github/workflows/main.yml.
 The pipeline performs the following steps automatically when you push to the main branch:
 
 Checkout Code – Pulls the latest code from the repository.
